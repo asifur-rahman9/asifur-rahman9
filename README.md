@@ -2,8 +2,7 @@
 <b>Full Stack Web Apps</b>
 
   - Simple CRUD app (Backend)
-  - 
-  - 
+  - Customer & Service Management System
   
 
 
