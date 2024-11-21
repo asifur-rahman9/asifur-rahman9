@@ -1,7 +1,5 @@
 # Asifur Rahman's GitHub Profile
 
-## Featured Projects
-
 ### **Full Stack Web Apps**
 - **[Simple CRUD App (Backend)](https://github.com/asifur-rahman9/simple-crud-app-backend)**  
   A backend project demonstrating CRUD operations using **Node.js** and **Express.js** with MongoDB integration.
