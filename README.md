@@ -7,6 +7,9 @@
 - **[Simple CRUD App (Backend)](https://github.com/asifur-rahman9/simple-crud-app-backend)**  
   A backend project demonstrating CRUD operations using **Node.js** and **Express.js** with MongoDB integration.
 
+**[Pressbooks H5P Plugins](https://github.com/asifur-rahman9/custom-h5p-plugin)**  
+Lightweight plugin using PHP, that applies custom CSS to all H5P activities in Pressbooks / WordPress. 
+
 - **[Station Signal Analyzer](https://github.com/asifur-rahman9/station-signal-analyzer)**  
   A Python-based tool that processes and visualizes station signal data using **NumPy** and **Matplotlib**. The project is designed to analyze base station information efficiently.
 
