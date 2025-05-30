@@ -4,6 +4,8 @@
 - **[Fullstack Services App](https://github.com/asifur-rahman9/fullstack-services-app)**  
   A fullstack web application for service management. Includes features for admins and customers to manage services, appointments, and payments using **Node.js**, **Express**, **MongoDB**, and a custom frontend with **HTML**, **CSS**, and **JavaScript**.
 
+- **[MNIST Data Classifier]([https://github.com/asifur-rahman9/fullstack-services-app](https://github.com/Tristan-Paolo/COMP472_Project))**  
+
 - **[Simple CRUD App (Backend)](https://github.com/asifur-rahman9/simple-crud-app-backend)**  
   A backend project demonstrating CRUD operations using **Node.js** and **Express.js** with MongoDB integration.
 
