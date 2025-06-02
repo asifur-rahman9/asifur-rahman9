@@ -19,9 +19,6 @@
 - **[Station Signal Analyzer](https://github.com/asifur-rahman9/station-signal-analyzer)**  
   A Python-based tool that processes and visualizes station signal data using **NumPy** and **Matplotlib**. The project is designed to analyze base station information efficiently.
 
-- **[Heap Implementation in Java](https://github.com/asifur-rahman9/heap-implementation)**  
-  A comprehensive implementation of the **Heap Data Structure** with support for Min-Heap and Max-Heap configurations. Includes custom dynamic arrays and demonstrates heap operations.
-
 ## 🌱 What I’m Learning
 - Machine Learning Algorithms and Applications
 - Advanced Python for Data Analysis
