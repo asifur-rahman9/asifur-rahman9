@@ -3,6 +3,9 @@
 ## **Projects**
 - **[Fullstack Services App](https://github.com/asifur-rahman9/fullstack-services-app)**  
   A fullstack web application for service management. Includes features for admins and customers to manage services, appointments, and payments using **Node.js**, **Express**, **MongoDB**, and a custom frontend with **HTML**, **CSS**, and **JavaScript**.
+
+- **[Whack-a-mole Game cpp](https://github.com/asifur-rahman9/whack-a-mole-cpp.git)**  
+  A lightweight Python project that trains and serves a bike‐share demand forecasting model (using scikit‐learn) and offers an interactive Streamlit dashboard to visualize predicted station usage.
   
 - **[Bike Share Demand Predicator](https://github.com/asifur-rahman9/bike-station-monitor)**  
   A lightweight Python project that trains and serves a bike‐share demand forecasting model (using scikit‐learn) and offers an interactive Streamlit dashboard to visualize predicted station usage.
