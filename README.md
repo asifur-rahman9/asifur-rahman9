@@ -9,8 +9,6 @@
 
 ## Projects
 
----
-
 ### [Service Management System](https://github.com/asifur-rahman9/fullstack-services-app)  
 **Technologies:** React, Node.js, MongoDB, JWT, REST APIs, Postman  
 Full-stack web platform for service bookings and client management with secure authentication, role-based access, and optimized database queries.
