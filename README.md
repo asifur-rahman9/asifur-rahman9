@@ -1,14 +1,15 @@
-# Hi, I'm Asifur Rahman
-
-Computer Science (CO-OP) student at Concordia University, Montreal  
-Passionate about software development, machine learning, and cloud technologies.  
-I enjoy building scalable applications and data-driven tools that solve real-world problems.
-
-**Connect with me:** [LinkedIn](https://linkedin.com/in/asifurrahman7) | asifur.rahman@mail.concordia.ca  
+---
+## Currently Learning
+- Software Engineering Concepts and System Design  
+- Machine Learning Algorithms and Model Optimization  
+- Data Engineering and ETL Pipelines  
+- Artificial Intelligence Applications and Frameworks  
 
 ---
 
 ## Projects
+
+---
 
 ### [Service Management System](https://github.com/asifur-rahman9/fullstack-services-app)  
 **Technologies:** React, Node.js, MongoDB, JWT, REST APIs, Postman  
@@ -46,10 +47,3 @@ Backend project demonstrating full CRUD operations with RESTful API design and m
 
 ---
 
-## Currently Learning
-- Software Engineering Concepts and System Design  
-- Machine Learning Algorithms and Model Optimization  
-- Data Engineering and ETL Pipelines  
-- Artificial Intelligence Applications and Frameworks  
-
----
