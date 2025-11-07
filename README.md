@@ -4,8 +4,7 @@ Computer Science (CO-OP) student at Concordia University, Montreal
 Passionate about software development, machine learning, and cloud technologies.  
 I enjoy building scalable applications and data-driven tools that solve real-world problems.
 
-**Connect with me:**  
-[LinkedIn](https://linkedin.com/in/asifurrahman7) | asifur.rahman@mail.concordia.ca  
+**Connect with me:** [LinkedIn](https://linkedin.com/in/asifurrahman7) | asifur.rahman@mail.concordia.ca  
 
 ---
 
