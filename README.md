@@ -5,7 +5,7 @@ Passionate about software development, machine learning, and cloud technologies.
 I enjoy building scalable applications and data-driven tools that solve real-world problems.
 
 **Connect with me:**  
-[LinkedIn](https://linkedin.com/in/asifurrahman7) | [GitHub](https://github.com/asifur-rahman9) | asifur.rahman@mail.concordia.ca  
+[LinkedIn](https://linkedin.com/in/asifurrahman7) | asifur.rahman@mail.concordia.ca  
 
 ---
 
