@@ -27,7 +27,7 @@ Machine learning project predicting BIXI bike demand using a RandomForest model 
 
 ---
 
-### [Pressbooks H5P Plugin](https://github.com/asifur-rahman9/custom-h5p-plugin)  
+### [H5P OER Plugin](https://github.com/asifur-rahman9/custom-h5p-plugin)  
 **Technologies:** PHP, JavaScript, CSS  
 Plugin for Pressbooks that applies global CSS to H5P activities, improving accessibility and ensuring consistent visual design for educators.
 
