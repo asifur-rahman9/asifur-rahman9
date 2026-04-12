@@ -1,5 +1,3 @@
-# Hi, I'm Asifur 👋
-
 Final-year **Computer Science (Co-op)** student at **Concordia University**. Prev @ **BMO**.
 
 ### 🧰 Tech I reach for
