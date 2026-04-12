@@ -17,13 +17,13 @@ Final-year **Computer Science (Co-op)** student at **Concordia University**. Pre
 
 ## Projects
 
-### [3D Rendering Engine — Whack-A-Mole](https://github.com/asifur-rahman9/whack-a-mole-cpp)
+### [3D Rendering Engine with Multi-Light Shadow Mapping](https://github.com/asifur-rahman9/whack-a-mole-cpp)
 **C++ · OpenGL · GLSL**
-A real-time 3D game built from scratch for Concordia's graduate-level computer graphics course (COMP371). No game engine, no asset loaders — just raw OpenGL and a custom OBJ parser feeding vertex buffers directly to the GPU. The interesting parts: multi-pass shadow mapping that renders depth from each light's POV before sampling those textures in the main fragment shader, hierarchical matrix transformations driving a two-joint articulated hammer arm via forward kinematics, and a C++ shader abstraction layer wrapping the GLSL compile-link-uniform lifecycle. Cubemap skybox and a GPU-instanced particle system round it out. Built with a partner.
+A real-time 3D game built from scratch for Concordia's computer graphics course (COMP371). No game engine, no asset loaders — just raw OpenGL and a custom OBJ parser feeding vertex buffers directly to the GPU. The interesting parts: multi-pass shadow mapping that renders depth from each light's POV before sampling those textures in the main fragment shader, hierarchical matrix transformations driving a two-joint articulated hammer arm via forward kinematics, and a C++ shader abstraction layer wrapping the GLSL compile-link-uniform lifecycle. Cubemap skybox and a GPU-instanced particle system round it out. Built with a partner.
 
 ---
 
-### [Service Booking Platform](https://github.com/asifur-rahman9/fullstack-services-app)
+### [Full-Stack Service Booking Platform](https://github.com/asifur-rahman9/fullstack-services-app)
 **React · Node.js · Express · MongoDB · JWT**
 A full-stack web app for booking and managing services with separate flows for clients and providers. The React frontend handles protected routes and form validation; the Express backend exposes a REST API with middleware-based auth, request validation, and centralized error handling. Auth is a stateless JWT flow with refresh token rotation. MongoDB schemas are indexed on lookup fields to keep query latency low under realistic usage. Built as a learning vehicle for production-style backend patterns — middleware composition, schema design, and clean separation of concerns.
 
